@@ -1,0 +1,43 @@
+.topheader{
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+}
+
+.centerlist{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btnmargin{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.themecolor{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dropmenuitem:active, .dropmenuitem:hover {
+    background-color:  rgba(255, 255, 255, 1);
+}
+
+.headerfontcolor{
+    color: black;
+}
+
+.bgopacity{
+    opacity: 50%;
+}
+
+.bg{
+    background-image:url(bg2.jpg);
+    background-size: contain;
+}
+#navbar div ul li a {
+    color: black;
+}
+
+#navbar.fixed-top{
+    position: sticky;
+}
